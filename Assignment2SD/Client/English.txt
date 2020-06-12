@@ -1,0 +1,15 @@
+Cube
+Pyramid
+Pyramid Trunks
+Prism
+Tetrahedron
+Parallelepiped
+Shape
+Shape Name
+Open Shape
+Display
+Save
+Base area: 
+Lateral area: 
+Total area: 
+Volume: 

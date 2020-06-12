@@ -1,0 +1,15 @@
+Cub
+Piramida
+Trunchi Piramida
+Prisma
+Tetraedru
+Paralelipiped
+Figura
+Nume Figura
+Deschide Figura
+Afiseaza
+Salveaza
+Aria bazei: 
+Aria laterala: 
+Aria totala: 
+Volum: 

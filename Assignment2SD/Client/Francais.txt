@@ -1,0 +1,15 @@
+Cube
+Pyramide
+Troncs de Pyramide
+Prisme
+Tetraedre
+Parallelepipede
+Figure
+Nom de la Figure
+Ouvrir la Figure
+Affiche
+Sauver
+L'aire de base: 
+L'aire laterale: 
+L'aire totale: 
+Volume: 
